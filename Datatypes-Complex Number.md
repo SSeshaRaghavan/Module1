@@ -23,7 +23,7 @@ print(x.real)
 print(x.imag)
 ```
 ## Output
-![Screenshot 2025-05-03 091957](https://github.com/user-attachments/assets/442b6593-390f-4e2a-ab83-6e2c3fda293b)
-![Screenshot 2025-05-03 092011](https://github.com/user-attachments/assets/2d73400c-d21a-40fa-b025-45037781f8a8)
+<img width="437" height="843" alt="image" src="https://github.com/user-attachments/assets/32004e75-e63b-4dd0-ba61-a795d080afc3" />
 
 ## Result
+Successfully executed the above program
