@@ -28,7 +28,7 @@ print("c:", c)
 print("d:", d)
 ```
 ## Output
-<img width="757" height="719" alt="image" src="https://github.com/user-attachments/assets/66c34356-13dd-44b2-b0a9-e6ff56a67832" />
+<img width="497" height="874" alt="image" src="https://github.com/user-attachments/assets/1b157519-10e3-47e7-a7e8-49702fcdf38a" />
 
 ## Result
 a is False
